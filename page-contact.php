@@ -1,5 +1,4 @@
 <?php get_header(); ?>
-
 <section class="partner">
 	<div class="partner_text">
 		<h2 class="desc-ver">
@@ -13,8 +12,8 @@
 				<spnan class='w-nowrap d-flex'><span class="up-string-mob">&nbsp;Generalp</span><span class="f-left">lanung.</span></span>
 			</p>
 		</h2>
-
-		<p class="small-text">Sie benötigen Beratung oder ein unverbindliches Angebot? Kontaktieren Sie uns gern. Unsere Spezialisten werden Sie umfassend betreuen.</p>
+		<p class="small-text">Sie benötigen Beratung oder ein unverbindliches Angebot? Kontaktieren Sie uns gern. Unsere
+			Spezialisten werden Sie umfassend betreuen.</p>
 	</div>
 	<div class="partner_contacts">
 		<div class="partner_contacts-item">
@@ -22,20 +21,20 @@
 				<h3 class="black-text">(+41) 71 558 81 01</h3>
 				<a href="#footer_form_box">
 					<div class="addInfo-image">
-						<img src="<?php echo get_template_directory_uri(); ?>/img/phoneOrange.svg" alt="">	
+						<img src="<?php echo get_template_directory_uri(); ?>/img/phoneOrange.svg" alt="">
 					</div>
 				</a>
-			</div>	
+			</div>
 		</div>
 		<div class="partner_contacts-item">
 			<div class="addInfo">
 				<h3 class="black-text">dejan.lubina@lubina-eng.ch</h3>
 				<a href="#footer_form_box">
 					<div class="addInfo-image">
-						<img src="<?php echo get_template_directory_uri(); ?>/img/mail.svg" alt="">	
+						<img src="<?php echo get_template_directory_uri(); ?>/img/mail.svg" alt="">
 					</div>
 				</a>
-			</div>	
+			</div>
 		</div>
 		<div class="partner_contacts-item">
 			<div class="addInfo">
@@ -47,18 +46,16 @@
 				</h3>
 				<a href="#footer_map_desc" class="desc-ver">
 					<div class="addInfo-image">
-						<img src="<?php echo get_template_directory_uri(); ?>/img/map.svg" alt="">	
+						<img src="<?php echo get_template_directory_uri(); ?>/img/map.svg" alt="">
 					</div>
 				</a>
 				<a href="#footer_map_mob" class="mob-ver">
 					<div class="addInfo-image">
-						<img src="<?php echo get_template_directory_uri(); ?>/img/map.svg" alt="">	
+						<img src="<?php echo get_template_directory_uri(); ?>/img/map.svg" alt="">
 					</div>
 				</a>
-			</div>	
+			</div>
 		</div>
 	</div>
-	</section>
-
-
+</section>
 <?php get_footer(); ?>
