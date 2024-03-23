@@ -7,9 +7,6 @@
 			<div></div>
 			<div></div>
 		</div>
-
-		
-		
 		<div class="popUp_form ">
 			<div class="popUp_header">
 				<h2 ><span class="up-string-gray">Termin buchen</span> </h2>
